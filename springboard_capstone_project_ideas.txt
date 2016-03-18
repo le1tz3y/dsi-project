@@ -1,0 +1,17 @@
+Home Depot Product Search Relevance
+
+	This is a Kaggle competition where Home Depot is looking to improve the search relevancy for their customers. Home Depot supplies a train and test dataset along with some supplemental datasets that provide additional information about the Home Depot products. The relevance scores in the train dataset were obtained by manual ranking by at least 3 different people. Home Depot is looking for a smarter model than just straight text/string matching.
+
+
+
+BNP Paribas Cardif’s Claim Management Process	
+
+	BNP Paribas Cardif challenges Kagglers to improve the claims process for personal insurance. Using the companies anonymized train and test datasets of clients, Kagglers should predict if a claim should be fast tracked or not. No data wrangling and very little data processing is required for this project.
+
+
+
+
+Telestra Network Disruption
+
+	Australia’s largest telecommunications company challenges Kagglers to predict the severity of service disruption for their customers. Telestra provides electrical service log data that should be used to determine if a customer is experiencing a minor blip in the network or a total loss of communications.
+
